@@ -1,4 +1,4 @@
-# Programming-for-the-Humanities
+# Programming for the Humanities
 
 Welcome to my repository! Here, I'll be documenting my learning journey while taking the _Programming for Humanities_ course 🎓. 
 I'll share exercises, notes, and insights as I progress through the following topics:
