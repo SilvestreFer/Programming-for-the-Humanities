@@ -13,7 +13,6 @@ print(f'{nome} {sobrenome}')
 # -> Outra forma:
 print('Edgar' +' '+ 'Degas')
 print('-='*11)
-print('-='*11)
 
 #Exercício 03:
 nome= 'Sebastião José de Carvalho e Melo'
@@ -21,7 +20,7 @@ print(f'A primeira letra do nome é {nome[0]}.')
 print(f'A última letra do nome é {nome[-1]}.')
 
 nobiliarquico= 'Marquês de Pombal'
-print(f'O título é {nobiliarquico[:7]}.')
+print(f'O título nobiliárquico é {nobiliarquico[:7]}.')
 print(f'A localidade associada ao título é {nobiliarquico[-6:]}.')
 
 texto= 'Sebastião José de Carvalho e Melo foi Marquês de Pombal'
