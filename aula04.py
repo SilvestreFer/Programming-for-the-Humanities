@@ -27,10 +27,10 @@ print(abs(-3) == 4 and abs(-7) == 7)
 shakespeare = cervantes = 'escritores'
 heidegger = hussel = 'filósofos'
 print((heidegger == cervantes) or (heidegger == hussel))
+
+#not - inverte a expressão
+
 print('-='*11)
-
-#not
-
 
 #Exercícios:
 
