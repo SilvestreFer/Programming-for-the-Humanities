@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12ee4b-3c97-44ee-b285-23398a93e79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula05a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula05b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_o_maior_filosofo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_clube_dos_grandes_folosofos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03_nona_sinfonia_de_Beethoven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex04_uma_impressora_sem_us.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05_lista_de_investigadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06_o_investigador_Matias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07_as_obras_de_eca_de_queiros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08_os_alunos_de_mestrado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex10_invertendo_a_frase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercício_de_TPC.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex00_os_nomes_dos_monarcas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +59,24 @@
     &quot;Python.aula04.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula05.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula05b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06f.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07e.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex02_clube_dos_grandes_folosofos.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex03_nona_sinfonia_de_Beethoven.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex04_uma_impressora_sem_us.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex05_lista_de_investigadores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex06_o_investigador_Matias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex07_as_obras_de_eca_de_queiros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex08_os_alunos_de_mestrado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10_invertendo_a_frase.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercício.o_maior_filosofo.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercício_de_TPC.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -58,8 +84,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/JCsim/PycharmProjects/PythonExercicios/PythonExercicios_Curso_em_Video&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex04_uma_impressora_sem_us">
-    <configuration name="aula05b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula07e">
+    <configuration name="aula07b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula05b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex01_o_maior_filosofo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula07c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\ex01_o_maior_filosofo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex02_clube_dos_grandes_folosofos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula07d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_clube_dos_grandes_folosofos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex03_nona_sinfonia_de_Beethoven" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula07e" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_nona_sinfonia_de_Beethoven.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07e.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex04_uma_impressora_sem_us" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex10_invertendo_a_frase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex04_uma_impressora_sem_us.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex10_invertendo_a_frase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex04_uma_impressora_sem_us" />
-        <item itemvalue="Python.ex03_nona_sinfonia_de_Beethoven" />
-        <item itemvalue="Python.aula05b" />
-        <item itemvalue="Python.ex02_clube_dos_grandes_folosofos" />
-        <item itemvalue="Python.ex01_o_maior_filosofo" />
+        <item itemvalue="Python.aula07e" />
+        <item itemvalue="Python.aula07d" />
+        <item itemvalue="Python.ex10_invertendo_a_frase" />
+        <item itemvalue="Python.aula07c" />
+        <item itemvalue="Python.aula07b" />
       </list>
     </recent_temporary>
   </component>
