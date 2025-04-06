@@ -15,5 +15,5 @@ for email in list_1:
 
 index = 0
 for email in list_2:
-    print('Número: ' + str(list_3[index]) + 'email: ' + email)
+    print('Número: ' + str(list_3[index]) + ' E-mail: ' + email)
     index += 1

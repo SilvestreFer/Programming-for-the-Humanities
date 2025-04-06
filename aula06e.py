@@ -8,4 +8,4 @@ democracy = {
 }
 print('Numa democracia:')
 for power,entity in democracy.items(): #item, item e dicionário:intems()
-    print('O ' + power +' pertence ao ' + entity)
+    print('O ' + power +' pertence ao ' + entity + '.')
