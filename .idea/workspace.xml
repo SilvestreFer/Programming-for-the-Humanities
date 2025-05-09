@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12ee4b-3c97-44ee-b285-23398a93e79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex11_Explorando_Bibliotecas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex12_Meu_Grafico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex13_Estudos_Grafico_em_Linha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex14_Estudos_Grafico_de_Barras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex15_Palavras_em_um_texto_V1.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex15_Palavras_em_um_texto_V2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16_a_chamada_json.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06e.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula06e.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07b.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula07b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex09.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_os_emails_da_fcsh.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +55,8 @@
     &quot;Python.aula07c.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula07d.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula07e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula09a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula09b.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex02_clube_dos_grandes_folosofos.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex03_nona_sinfonia_de_Beethoven.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex04_uma_impressora_sem_us.executor&quot;: &quot;Run&quot;,
@@ -71,6 +67,7 @@
     &quot;Python.ex09.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex10_invertendo_a_frase.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex16_a_chamada_json.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercício.o_maior_filosofo.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercício_de_TPC.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -78,29 +75,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/JCsim/PycharmProjects/PythonExercicios/PythonExercicios_Curso_em_Video&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex11_Explorando_Bibliotecas">
-    <configuration name="aula07a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject_Programming_for_the_Humanities" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex16_a_chamada_json">
     <configuration name="aula07b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
@@ -123,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex09_os_emails_da_fcsh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula09a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\ex09_os_emails_da_fcsh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex10_invertendo_a_frase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula09b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex10_invertendo_a_frase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,13 +164,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex16_a_chamada_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_Programming_for_the_Humanities" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex16_a_chamada_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex16_a_chamada_json" />
+        <item itemvalue="Python.aula09b" />
+        <item itemvalue="Python.aula09a" />
         <item itemvalue="Python.ex11_Explorando_Bibliotecas" />
         <item itemvalue="Python.aula07b" />
-        <item itemvalue="Python.aula07a" />
-        <item itemvalue="Python.ex10_invertendo_a_frase" />
-        <item itemvalue="Python.ex09_os_emails_da_fcsh" />
       </list>
     </recent_temporary>
   </component>
