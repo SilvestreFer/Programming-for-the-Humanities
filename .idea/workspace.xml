@@ -5,46 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12ee4b-3c97-44ee-b285-23398a93e79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/pratica01_rotina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica02_soma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica03_desempacotamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica04_funcoes_e_listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica05_soma_2.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula03a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula03a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula03b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula03b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula05a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula05a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula05b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula05b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06c.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06c.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06e.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06e.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06f.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06f.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06g.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula06g.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula07a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula07b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07c.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula07c.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula07d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07e.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula07e.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula09a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula09b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex00_os_nomes_dos_monarcas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex00_os_nomes_dos_monarcas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_o_maior_filosofo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex01_o_maior_filosofo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_clube_dos_grandes_folosofos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex02_clube_dos_grandes_folosofos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_nona_sinfonia_de_Beethoven.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex03_nona_sinfonia_de_Beethoven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex04_uma_impressora_sem_us.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex04_uma_impressora_sem_us.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex05_lista_de_investigadores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex05_lista_de_investigadores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex06_o_investigador_Matias.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex06_o_investigador_Matias.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex07_as_obras_de_eca_de_queiros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex07_as_obras_de_eca_de_queiros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex08_os_alunos_de_mestrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex08_os_alunos_de_mestrado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex09_os_emails_da_fcsh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex09_os_emails_da_fcsh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex10_invertendo_a_frase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex10_invertendo_a_frase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex11_Explorando_Bibliotecas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex11_Explorando_Bibliotecas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex12_Meu_Grafico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex12_Meu_Grafico.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex13_Estudos_Grafico_em_Linha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex13_Estudos_Grafico_em_Linha.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex14_Estudos_Grafico_de_Barras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex14_Estudos_Grafico_de_Barras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex15_Palavras_em_um_texto_V1.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex15_Palavras_em_um_texto_V1.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex15_Palavras_em_um_texto_V2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex15_Palavras_em_um_texto_V2.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex16_a_chamada_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex16_a_chamada_json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +76,12 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/JCsim/PycharmProjects/PythonExercicios/PythonExercicios_Curso_em_Video&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Exercises" />
+      <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.ex16_a_chamada_json">
     <configuration name="aula07b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
