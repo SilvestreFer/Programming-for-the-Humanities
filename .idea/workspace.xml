@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12ee4b-3c97-44ee-b285-23398a93e79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/pratica02_soma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/pratica03_desempacotamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/pratica04_funcoes_e_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/pratica05_soma_2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/ex17_usando_descricao_com_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/ex18_as_cidades_no_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/ex19_dados_geograficos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula08a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula08b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula08c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula08d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula08e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula08f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula10a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/aula10b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/ex16_a_chamada_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex16_a_chamada_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/aula09b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/aula09b.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,54 +45,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.Aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula03a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula03b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula05b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06f.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula09a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula09b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex02_clube_dos_grandes_folosofos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex03_nona_sinfonia_de_Beethoven.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex04_uma_impressora_sem_us.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex05_lista_de_investigadores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex06_o_investigador_Matias.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex07_as_obras_de_eca_de_queiros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex08_os_alunos_de_mestrado.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex10_invertendo_a_frase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex16_a_chamada_json.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercício.o_maior_filosofo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercício_de_TPC.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JCsim/PycharmProjects/PythonExercicios/PythonExercicios_Curso_em_Video&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Aula01.executor": "Run",
+    "Python.Aula03a.executor": "Run",
+    "Python.Aula03b.executor": "Run",
+    "Python.aula04.executor": "Run",
+    "Python.aula05.executor": "Run",
+    "Python.aula05b.executor": "Run",
+    "Python.aula06a.executor": "Run",
+    "Python.aula06b.executor": "Run",
+    "Python.aula06c.executor": "Run",
+    "Python.aula06d.executor": "Run",
+    "Python.aula06e.executor": "Run",
+    "Python.aula06f.executor": "Run",
+    "Python.aula07a.executor": "Run",
+    "Python.aula07b.executor": "Run",
+    "Python.aula07c.executor": "Run",
+    "Python.aula07d.executor": "Run",
+    "Python.aula07e.executor": "Run",
+    "Python.aula09a.executor": "Run",
+    "Python.aula09b (1).executor": "Run",
+    "Python.aula09b.executor": "Run",
+    "Python.ex02_clube_dos_grandes_folosofos.executor": "Run",
+    "Python.ex03_nona_sinfonia_de_Beethoven.executor": "Run",
+    "Python.ex04_uma_impressora_sem_us.executor": "Run",
+    "Python.ex05_lista_de_investigadores.executor": "Run",
+    "Python.ex06_o_investigador_Matias.executor": "Run",
+    "Python.ex07_as_obras_de_eca_de_queiros.executor": "Run",
+    "Python.ex08_os_alunos_de_mestrado.executor": "Run",
+    "Python.ex09.executor": "Run",
+    "Python.ex10_invertendo_a_frase.executor": "Run",
+    "Python.ex11.executor": "Run",
+    "Python.ex16_a_chamada_json (1).executor": "Run",
+    "Python.ex16_a_chamada_json.executor": "Run",
+    "Python.ex17_usando_descricao_com_json.executor": "Run",
+    "Python.ex18.executor": "Run",
+    "Python.ex19_dados_geograficos.executor": "Run",
+    "Python.exercício.o_maior_filosofo.executor": "Run",
+    "Python.exercício_de_TPC.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/JCsim/PycharmProjects/PythonExercicios/PythonExercicios_Curso_em_Video"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Exercises" />
       <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex16_a_chamada_json">
-    <configuration name="aula07b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex19_dados_geograficos">
+    <configuration name="aula09b (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons\aula07b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/aula09b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula09a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex16_a_chamada_json (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons\aula09a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/ex16_a_chamada_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula09b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex17_usando_descricao_com_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons\aula09b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/ex17_usando_descricao_com_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex11_Explorando_Bibliotecas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex18_as_cidades_no_http" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Exercises\ex11_Explorando_Bibliotecas.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Exercises\ex18_as_cidades_no_http.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex16_a_chamada_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex19_dados_geograficos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Exercises\ex16_a_chamada_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/ex19_dados_geograficos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex16_a_chamada_json" />
-        <item itemvalue="Python.aula09b" />
-        <item itemvalue="Python.aula09a" />
-        <item itemvalue="Python.ex11_Explorando_Bibliotecas" />
-        <item itemvalue="Python.aula07b" />
+        <item itemvalue="Python.ex19_dados_geograficos" />
+        <item itemvalue="Python.ex18_as_cidades_no_https" />
+        <item itemvalue="Python.ex16_a_chamada_json (1)" />
+        <item itemvalue="Python.aula09b (1)" />
+        <item itemvalue="Python.ex17_usando_descricao_com_json" />
       </list>
     </recent_temporary>
   </component>
