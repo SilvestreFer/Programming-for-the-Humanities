@@ -7,6 +7,7 @@ class Cliente():
             self.plano = plano
         else:
             print('Plano inválido')
+
     def mudar_de_plano(self, novo_plano):
         if novo_plano in self.lista_de_planos:
             self.plano = novo_plano
@@ -36,3 +37,4 @@ novo_cliente.mudar_de_plano('premium')
 print(f'O seu novo plano é o {novo_cliente.plano}.')
 
 novo_cliente.ver_um_filme('Harry Potter', 'premium')
+

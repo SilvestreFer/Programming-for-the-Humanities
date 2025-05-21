@@ -1,9 +1,8 @@
 def soma(a,b):
    print(f'A = {a} + B = {b} ')
-   s = a +b
+   s = a + b
    print(f'A soma de A+B={s}')
    print('-'*30)
-
 
 #Programa principal
 soma(15,5)
