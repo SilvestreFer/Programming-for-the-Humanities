@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12ee4b-3c97-44ee-b285-23398a93e79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/pratica10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject_Programming_for_the_Humanities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject_Programming_for_the_Humanities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica11_listando_autoras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica12_coletando_dados_da_wikipedia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica13_classificando_frases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica14_contador_de_palavras_com_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/pratica15_classe_poema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/pratica02_soma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/pratica02_soma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/pratica03_desempacotamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/pratica03_desempacotamento.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/pratica09_clientes_da_Netflix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/pratica09_clientes_da_Netflix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "Python.aula09a.executor": "Run",
     "Python.aula09b (1).executor": "Run",
     "Python.aula09b.executor": "Run",
+    "Python.aula10b.executor": "Run",
     "Python.ex02_clube_dos_grandes_folosofos.executor": "Run",
     "Python.ex03_nona_sinfonia_de_Beethoven.executor": "Run",
     "Python.ex04_uma_impressora_sem_us.executor": "Run",
@@ -93,7 +93,13 @@
     "Python.pratica08_revisando_class.executor": "Run",
     "Python.pratica09_clientes_da_Netflix.executor": "Run",
     "Python.pratica10.executor": "Run",
+    "Python.pratica11_listando_autoras.executor": "Run",
+    "Python.pratica12_coletando_dados_da_wikipedia.executor": "Run",
+    "Python.pratica13_classificando_frases.executor": "Run",
+    "Python.pratica14_contador_de_palavras_com_while.executor": "Run",
+    "Python.pratica15_classe_poema.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/JCsim/PycharmProjects/PythonExercicios/PythonExercicios_Curso_em_Video"
   }
@@ -104,8 +110,8 @@
       <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pratica10">
-    <configuration name="Fernanda_Daniela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pratica15_classe_poema">
+    <configuration name="aula10b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/800d4ee7-fd1b-4ffe-b418-50b0d584aee9_Segundo_elemento_alunos.zip.ee9" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/800d4ee7-fd1b-4ffe-b418-50b0d584aee9_Segundo_elemento_alunos.zip.ee9/Fernanda_Daniela.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/aula10b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,29 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Miguel_Beatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject_Programming_for_the_Humanities" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/0caaeb74-7c0a-40bf-94af-4daccedb0543_Segundo_elemento_alunos.zip.543" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/0caaeb74-7c0a-40bf-94af-4daccedb0543_Segundo_elemento_alunos.zip.543/Miguel_Beatriz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pratica08_revisando_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pratica12_coletando_dados_da_wikipedia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica08_revisando_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica12_coletando_dados_da_wikipedia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pratica09_clientes_da_Netflix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pratica13_classificando_frases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica09_clientes_da_Netflix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica13_classificando_frases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pratica10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pratica14_contador_de_palavras_com_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +190,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica14_contador_de_palavras_com_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pratica15_classe_poema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_Programming_for_the_Humanities" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica15_classe_poema.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,18 +223,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pratica10" />
-        <item itemvalue="Python.Miguel_Beatriz" />
-        <item itemvalue="Python.Fernanda_Daniela" />
-        <item itemvalue="Python.pratica09_clientes_da_Netflix" />
-        <item itemvalue="Python.pratica08_revisando_class" />
+        <item itemvalue="Python.pratica15_classe_poema" />
+        <item itemvalue="Python.pratica14_contador_de_palavras_com_while" />
+        <item itemvalue="Python.pratica13_classificando_frases" />
+        <item itemvalue="Python.pratica12_coletando_dados_da_wikipedia" />
+        <item itemvalue="Python.aula10b" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
