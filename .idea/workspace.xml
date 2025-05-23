@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12ee4b-3c97-44ee-b285-23398a93e79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/revisao01_condicional_e_estrutura_de_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/revisao02_funcao_com_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/revisao03_web_scraping_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao04_estrutura_de_decisao_com_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao05_ciclos_if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao06_contar_vogais_especificas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao07_estrutura_com_dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao08_funcao_menor_numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao09_web_scraping_com_classe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao10_dicionarios_e_estruturas_de_controle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao11_contar_as_maiusculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao12_web_scraping_citacoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/revisao13_json_com_github.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/ex20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex20_as_cidades_na_sopa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/ex22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/ex22_scraping_toda_a_biblioteca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practices/revisao01_condicional_e_estrutura_de_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review/revisao01_condicional_e_estrutura_de_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practices/revisao02_funcao_com_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review/revisao02_funcao_com_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practices/revisao03_web_scraping_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review/revisao03_web_scraping_basic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +109,16 @@
     "Python.revisao01_condicional_e_estrutura_de_dados.executor": "Run",
     "Python.revisao02_funcao_com_for.executor": "Run",
     "Python.revisao03_web_scraping_basic.executor": "Run",
+    "Python.revisao04.executor": "Run",
+    "Python.revisao05_ciclos_if_elif_else.executor": "Run",
+    "Python.revisao06_contar_vogais_especificas.executor": "Run",
+    "Python.revisao07_estrutura_com_dicionario.executor": "Run",
+    "Python.revisao08_funcao_menor_numero.executor": "Run",
+    "Python.revisao09_web_scraping_com_classe.executor": "Run",
+    "Python.revisao10_dicionarios_e_estruturas_de_controle.executor": "Run",
+    "Python.revisao11_contar_as_maiusculas.executor": "Run",
+    "Python.revisao12_web_scraping_citacoes.executor": "Run",
+    "Python.revisao13_json_com_github.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -109,12 +127,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Programming-for-the-Humanities\Review" />
       <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Exercises" />
       <recent name="C:\Users\JCsim\PycharmProjects\PythonExercicios\pythonProject_Programming_for_the_Humanities\Lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.revisao03_web_scraping_basic">
-    <configuration name="pratica14_contador_de_palavras_com_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.revisao13_json_com_github">
+    <configuration name="revisao09_web_scraping_com_classe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica14_contador_de_palavras_com_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/revisao09_web_scraping_com_classe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pratica15_classe_poema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="revisao10_dicionarios_e_estruturas_de_controle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/pratica15_classe_poema.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/revisao10_dicionarios_e_estruturas_de_controle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="revisao01_condicional_e_estrutura_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="revisao11_contar_as_maiusculas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/revisao01_condicional_e_estrutura_de_dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/revisao11_contar_as_maiusculas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="revisao02_funcao_com_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="revisao12_web_scraping_citacoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/revisao02_funcao_com_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/revisao12_web_scraping_citacoes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="revisao03_web_scraping_basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="revisao13_json_com_github" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_Programming_for_the_Humanities" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/revisao03_web_scraping_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/revisao13_json_com_github.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.revisao03_web_scraping_basic" />
-        <item itemvalue="Python.revisao02_funcao_com_for" />
-        <item itemvalue="Python.revisao01_condicional_e_estrutura_de_dados" />
-        <item itemvalue="Python.pratica15_classe_poema" />
-        <item itemvalue="Python.pratica14_contador_de_palavras_com_while" />
+        <item itemvalue="Python.revisao13_json_com_github" />
+        <item itemvalue="Python.revisao12_web_scraping_citacoes" />
+        <item itemvalue="Python.revisao11_contar_as_maiusculas" />
+        <item itemvalue="Python.revisao10_dicionarios_e_estruturas_de_controle" />
+        <item itemvalue="Python.revisao09_web_scraping_com_classe" />
       </list>
     </recent_temporary>
   </component>
